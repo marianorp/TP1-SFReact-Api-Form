@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Contact</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <script defer src="../assets/js/form.js"></script>
+</head>
+
+<body class="form-body">
+
+    <div class="container">
+        
+        <form id="form" class="form">
+
+            <div class="control">
+                <label for="username">Name</label>
+                <input type="text" placeholder="John Doe" id="name" />
+                <i class="check"></i>
+                <i class="wrong"></i>
+                <small>Error message</small>
+            </div>
+
+            <div class="control">
+                <label for="username">Email</label>
+                <input type="email" placeholder="example@gmail.com" id="email"/>
+                <i class="check"></i>
+                <i class="wrong"></i>
+                <small>Error message</small>
+            </div>
+
+            <div class="control">
+                <label for="username">Message</label>
+                <textarea type="message" placeholder="Write your message here" id="message"/></textarea>
+                <i class="check"></i>
+                <i class="wrong"></i>
+                <small>Error message</small>
+            </div>
+
+            <button onclick="getData()">Submit</button>
+        </form>
+    </div>
+
+</body>
+
+</html>
