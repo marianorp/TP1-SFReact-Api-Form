@@ -17,7 +17,7 @@ Realizado por Salias Emiliano, Perez Mariano.
 [Library App](#)
 
 
- >Team 
+## Team 
 
 
 - [Adán Rodríguez](https://github.com/adan-rodriguez)
@@ -29,7 +29,7 @@ Realizado por Salias Emiliano, Perez Mariano.
 # (FOTO DE LA LANDING PRINCIPAL)
     
 
- >Tasks
+## Tasks
 
 
 - You will need to create a new React project using the CRA CLI.
@@ -54,7 +54,7 @@ Realizado por Salias Emiliano, Perez Mariano.
 - As an innovation, all teams will implement the SCRUM methodology.
 - 
 
- >Optionals
+ ### Optionals
  
  
 - Use a Call To Action that makes a request to an API and loads books in our books into our application.
