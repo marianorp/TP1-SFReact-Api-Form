@@ -11,7 +11,7 @@ Realizado por Salias Emiliano, Perez Mariano.
 # Library App - Skill Factory React
 
 
- >Team
+ ## Team
 
 
 - [Adán Rodríguez](https://github.com/adan-rodriguez)
@@ -20,7 +20,7 @@ Realizado por Salias Emiliano, Perez Mariano.
 - [Mariano Perez](https://github.com/marianorp)
     
 
- >Tasks
+ ## Tasks
 
 
 - You will need to create a new React project using the CRA CLI.
