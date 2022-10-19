@@ -11,19 +11,9 @@ Realizado por Salias Emiliano, Perez Mariano.
 # Library App - Skill Factory React
 
 
- >Team
+ >Team \
 
-
-
-
-
-
-
-
-
-
-
-
+*\
 
 
 - [Adán Rodríguez](https://github.com/adan-rodriguez)
