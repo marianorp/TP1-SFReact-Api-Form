@@ -9,8 +9,6 @@ Realizado por Salias Emiliano, Perez Mariano.
 
 
 # Library App - Skill Factory React
-_________________
-
 
 
  >Team
@@ -81,7 +79,7 @@ Open localhost to view it in your browser.
 http://localhost:3000
 ```
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ## Dependencies
@@ -100,4 +98,3 @@ You may also see any lint errors in the console.
 - react-scripts 5.0.1
 - sweetalert2 11.4.37
 - web-vitals 2.1.4
-
