@@ -12,6 +12,8 @@ Realizado por Salias Emiliano, Perez Mariano.
 
 
  >Team
+
+
 - [Adán Rodríguez](https://github.com/adan-rodriguez)
 - [Cecilia Kuckiewicz](https://github.com/kucki)
 - [Gabriel Maguna](https://github.com/Gabrielmaguna00)
@@ -19,6 +21,8 @@ Realizado por Salias Emiliano, Perez Mariano.
     
 
  >Tasks
+
+
 - You will need to create a new React project using the CRA CLI.
 - The application must allow:
     - Add a book
