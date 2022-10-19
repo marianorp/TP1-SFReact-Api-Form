@@ -11,12 +11,22 @@ Realizado por Salias Emiliano, Perez Mariano.
 # Library App - Skill Factory React
 
 
- >Team &nbsp;  
+
+ >Deploy
+
+[Library App](#)
+
+
+ >Team 
+
 
 - [Adán Rodríguez](https://github.com/adan-rodriguez)
 - [Cecilia Kuckiewicz](https://github.com/kucki)
 - [Gabriel Maguna](https://github.com/Gabrielmaguna00)
 - [Mariano Perez](https://github.com/marianorp)
+
+
+# (FOTO DE LA LANDING PRINCIPAL)
     
 
  >Tasks
@@ -42,33 +52,34 @@ Realizado por Salias Emiliano, Perez Mariano.
 - We are working with the best coding standards so we need everything to be written with the best so we need everything to be written with the implementations of ECMA6 and later of ECMA6 and later (functions, destructuring, among others).
 - Design the mockup of the UI for Login & Register. Add these options to the options to the navbar or menu, depending on the style you choose.
 - As an innovation, all teams will implement the SCRUM methodology.
+- 
 
  >Optionals
+ 
  
 - Use a Call To Action that makes a request to an API and loads books in our books into our application.
 - Ideally, it would be very optimal if the addition of books and the updating of books were updating of books should ideally be done in different routes.  
 
 
+
+
 ## Commands 
 
 
- \
 Clone project with GitHub  
 
 ```sh
 git clone https://github.com/marianorp/TP4-SFReact-LibraryApp.git
 ```
 
+
 ## Project
 
 
-
- \
  In the project directory, you can execute:
 ```sh
 npm install
 ```
-
 
 Installs all project dependencies.
 
@@ -85,7 +96,10 @@ http://localhost:3000
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
+
+
 ## Dependencies
+
 
 - @emotion/react 11.10.4
 - @emotion/styled 11.10.4
